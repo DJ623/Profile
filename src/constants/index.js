@@ -60,14 +60,7 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
+  
     {
       name: "JavaScript",
       icon: javascript,
@@ -100,18 +93,7 @@ import {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
-    {
-      name: "docker",
-      icon: docker,
-    },
+   
   ];
   
   const experiences = [
